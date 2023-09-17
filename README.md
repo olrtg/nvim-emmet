@@ -9,9 +9,17 @@
 
 ### Features
 
+> **Info**
+>
+> If you have an idea of a possible feature, let me know with an issue.
+
 - Wrap in normal, visual and visual block mode with emmet abbreviation.
 
 ### Installation
+
+> **Warning**
+>
+> This plugin requires [emmet-language-server](https://github.com/olrtg/emmet-language-server) so make sure you have it setup correctly first.
 
 **[lazy.nvim](https://github.com/folke/lazy.nvim)**
 
