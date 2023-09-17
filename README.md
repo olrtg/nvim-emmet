@@ -1,17 +1,17 @@
-<!-- markdownlint-disable MD033 MD041-->
-<h3 align="center">
-  nvim-emmet
-</h3>
+<!-- markdownlint-disable MD033 MD041 -->
+<div align="center">
+    <img src="./assets/logo.svg">
+    <h3>nvim-emmet</h3>
+    <p>A plugin that adds integration between Neovim and <a href="https://github.com/olrtg/emmet-language-server" target="_blank">emmet-language-server</a>.</p>
+</div>
 
-<p align="center">
-  A plugin that adds integration between Neovim and olrtg/emmet-language-server.
-</p>
+---
 
-# Features
+### Features
 
 - Wrap in normal, visual and visual block mode with emmet abbreviation.
 
-# Installation
+### Installation
 
 **[lazy.nvim](https://github.com/folke/lazy.nvim)**
 
