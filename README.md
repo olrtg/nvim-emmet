@@ -9,7 +9,7 @@
 
 ### Features
 
-> **Info**
+> **Note**
 >
 > If you have an idea of a possible feature, let me know with an issue.
 
