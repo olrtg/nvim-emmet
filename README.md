@@ -17,7 +17,7 @@
 ### Installation
 
 > **Warning**
-> This plugin requires [emmet-language-server](https://github.com/olrtg/emmet-language-server) so make sure you have it setup correctly first.
+> This plugin requires [emmet-language-server](https://github.com/olrtg/emmet-language-server) (v2.2.0 and above) so make sure you have it setup correctly first.
 
 **[lazy.nvim](https://github.com/folke/lazy.nvim)**
 
